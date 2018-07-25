@@ -23,8 +23,9 @@ end
 
 
   def key_for_min_value(name_hash)
-    smallest_value = value
+    
      name_hash.each do |key, value|
+       
       # If current value is lower than default, change value&key 
       if i[1] < smallest_value
         d_value = i[1]
