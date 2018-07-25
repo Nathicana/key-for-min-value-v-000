@@ -14,7 +14,7 @@
 
    end
 
-  return key
+  return smallest_value
 
 end  
 
